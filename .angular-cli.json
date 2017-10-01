@@ -19,12 +19,11 @@
       "testTsconfig": "tsconfig.spec.json",
       "prefix": "app",
       "styles": [
-		"styles.css",
-		"../node_modules/vis/dist/vis.css"
+        "styles.css"
       ],
       "scripts": [
-		  "../node_modules/vis/dist/vis.js"
-		],
+        "../node_modules/vis/dist/vis.js"
+      ],
       "environmentSource": "environments/environment.ts",
       "environments": {
         "dev": "environments/environment.ts",

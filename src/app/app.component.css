@@ -1,0 +1,24 @@
+.vis-item {
+    border: 2px;
+}
+
+.inpatientItem {
+    border-color: #f4b042;
+    background-color: #f7cc88;
+}
+
+.outpatientItem {
+    border-color: #5881fc;
+    background-color: #93aeff;
+}
+
+.midwifeItem {
+    border-color: #77e273;
+    background-color: #cefccc;
+}
+
+.deliverItem {
+    background-color: #f8ccfc;
+    border-color: #f28afc;
+
+}

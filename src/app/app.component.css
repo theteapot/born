@@ -2,6 +2,14 @@
     border: 2px;
 }
 
+.vis-timeline {
+    font-size: 12px;
+}
+
+.vis-item.vis-item-content {
+    padding: 2px;
+}
+
 .inpatientItem {
     border-color: #f4b042;
     background-color: #f7cc88;
